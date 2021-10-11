@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kodex42
+- 👀 I’m interested in playing and making video games
+- 🌱 I’m currently learning Godot and Blender
+- 📫 How to reach me: email me at mbuchanan86@hotmail.com
